@@ -2,7 +2,7 @@
 **  BUG REPORT
 *******************************************************
 
-The transaction filtering is case sensitive. That's annoying!
+The transaction filtering is case sensitive. That's annoying! [oh no! :(]
 
 *******************************************************
 *******************************************************
